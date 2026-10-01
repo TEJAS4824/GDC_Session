@@ -1,0 +1,6 @@
+{
+  "name": "GDC Vadodara Community & Club Management",
+  "description": "Official platform for GDC Vadodara Group: member registration, club event scheduling, admin dashboard, pricing tiers, and integrated membership payment portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
